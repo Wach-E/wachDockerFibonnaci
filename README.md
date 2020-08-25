@@ -2,7 +2,7 @@
 This repository contains the files used to build a modified Fibonacci sequence of which runs in a Docker container.
 
 # Prerequisites
-1. Familiarity with OS CLI and Docker commands.
+1. Familiarity with an OS CLI and Docker commands.
 2. Local machine must have docker installed. Check https://www.docker.com/products/docker-desktop
 
 # Base image: Python
