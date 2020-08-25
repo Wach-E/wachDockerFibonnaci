@@ -11,3 +11,6 @@ This repository contains the files used to build a modified Fibonacci sequence o
  * Obtain the value of the nth term in the sequence;
  * Series of the sequence;
  * The value prior to a selected value;
+
+# Image on Docker Hub
+https://hub.docker.com/r/wache/wachfibonnaci
